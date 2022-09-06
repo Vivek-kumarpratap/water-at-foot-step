@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">water-at-footstep</string>
+    <string name="and">An 4 digit code has been sent to </string>
 </resources>
